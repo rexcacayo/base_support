@@ -13,3 +13,7 @@ Analiza el contacto con la cama, las zonas de apoyo y la estabilidad (centro de 
 | Versión | Novedades |
 |---|---|
 | 1.0.0 | Primera versión. |
+
+## Licencia
+
+GPL-3.0-or-later. Gratis para usar, modificar y compartir; si redistribuyes una versión modificada, publica también su código.
