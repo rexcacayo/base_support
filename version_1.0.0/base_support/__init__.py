@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 bl_info = {'name': 'Base Support', 'author': 'Ricardo Lugaresi', 'version': (1, 0, 0),
            'blender': (4, 2, 0), 'location': 'Vista 3D > N > Base Support',
            'description': 'Analiza cómo apoya la figura y le hace una base plana, una peana o la gira a su mejor apoyo',

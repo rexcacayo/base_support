@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Base Support: analiza cómo apoya la figura y le hace una base plana o una peana."""
 import math
 
