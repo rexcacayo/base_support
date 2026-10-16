@@ -1,6 +1,6 @@
 # Base Support
 
-> **Versión actual: 1.0.0** (Blender 4.2 – 5.x) → instalar `version_1.0.0/dist/base_support-1.0.0.zip`
+> **Versión actual: 1.0.1** (Blender 4.2 – 5.x) → instalar `version_1.0.1/dist/base_support-1.0.1.zip`
 
 Complemento de Blender que **analiza cómo apoya la figura** en la cama y le da un apoyo firme.
 
@@ -12,6 +12,7 @@ Analiza el contacto con la cama, las zonas de apoyo y la estabilidad (centro de 
 
 | Versión | Novedades |
 |---|---|
+| 1.0.1 | Con varias piezas seleccionadas (3MF por colores) trata el conjunto entero sin desmontarlo. |
 | 1.0.0 | Primera versión. |
 
 ## Licencia
